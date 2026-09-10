@@ -1,4 +1,4 @@
-**Version: v0.0.1**
+**Version: v0.0.2**
 
 # Kyoto — 4-Day Itinerary
 
@@ -52,7 +52,6 @@
 **Late afternoon / Evening**
 
 * 🟢 **Nishiki Market**
-* 🟡 **Kimono Tea Ceremony MAIKOYA Nishiki** — if you want the experience
 * ⭐ **Pontocho**
 * 🟢 **Kyo-Yakiniku HIRO Pontocho Annex** — dinner
 
@@ -119,9 +118,30 @@ These aren't necessarily bad attractions — they're simply the ones I'd sacrifi
 * 🟡 **Shinnyodō** — optional on Day 4
 * 🟡 **Nijō Castle** — optional on Day 3
 * 🟡 **Kimono Forest** — easy to skip
-* 🟡 **MAIKOYA Tea Ceremony** — optional experience rather than sightseeing
+* 🟡 **MAIKOYA Tea Ceremony** — optional experience rather than sightseeing; see note below for where to put it
 * 🟡 **Fukushichi** — food stop rather than a destination
 * 🟡 **Onya Kede** — optional food stop
 * 🟡 **Pontocho Park** — don't treat it as a separate attraction; you'll experience the area while exploring Pontocho/Kamo River
 
 ---
+
+# Tea Ceremony Option
+
+If you **really want to do the tea ceremony**, I would recommend fitting it into **Day 4**, rather than Day 2.
+
+The best trade-off would be:
+
+* ⭐ **Fushimi Inari** — keep
+* 🟢 **Tofuku-ji** — keep if you're enjoying the morning
+* 🍵 **Kimono Tea Ceremony MAIKOYA Nishiki** — make this the main afternoon experience
+* 🟢 **Nanzen-ji or Eikando** — choose one if you still have energy
+* 🟡 **Philosopher's Path** — **skip it in favor of the tea ceremony**
+* 🟡 **Shinnyodō** — skip
+
+### Why Day 4?
+
+Day 2 is already quite full with **Kiyomizu-dera, Sannenzaka/Ninenzaka, Gion, Nishiki and Pontocho**. Adding a scheduled tea ceremony there would make the day feel rushed.
+
+On Day 4, the **Philosopher's Path is a pleasant optional walk rather than a must-see attraction**, so it makes much more sense to exchange it for something you specifically want to experience.
+
+**In short: if the tea ceremony is important to you, I'd choose the tea ceremony over the Philosopher's Path.**
