@@ -1,13 +1,14 @@
-**Version: v0.0.1**
+**Version: v0.0.2**
 
 # JP 6-Day Tokyo + Kawaguchiko Itinerary
 
 > **Strategy:** 5 focused Tokyo days + 1 night in Kawaguchiko/Fuji.
+>
 > Keep optional attractions flexible so the trip doesn't feel like a checklist.
 
 ---
 
-## Day 1 — West Tokyo: Harajuku → Shibuya → Shinjuku
+## Day 1 — West Tokyo: Harajuku → Shibuya → Ebisu
 
 ### Morning — Harajuku
 
@@ -26,19 +27,11 @@
 
 * ⭐ Shibuya Sky
 
-### Evening — Shinjuku
+### Evening — Ebisu
 
-* ⭐ Shinjuku
-* ⭐ Kabukicho
-* ⭐ Omoide Yokocho
-* 🟢 Godzilla Head
-* 🟢 Giant 3D Cat
-
-### Optional
-
-* 🟡 Tokyo Metropolitan Government Building
-
-  * Skip if doing Shibuya Sky; there is no need for another observation deck.
+* ⭐ Afuri Ebisu
+* ⭐ Matsugen Ebisu Store
+* Explore Ebisu
 
 ---
 
@@ -132,32 +125,32 @@
 
 ---
 
-## Day 5 — Quieter Tokyo: Tetsugakudo → Fukagawa → Ebisu
+## Day 5 — Shinjuku + Shinjuku Gyoen → Tetsugakudo → Nakano → Fukagawa
 
-### Morning
+### Morning — Shinjuku Gyoen
 
-* ⭐ Tetsugakudo Park
+* ⭐ Shinjuku Gyoen National Garden
+* Explore the gardens
 
-### Late Morning — Nakano
+### Afternoon — Shinjuku
 
+* ⭐ Shinjuku
+* ⭐ Kabukicho
+* ⭐ Omoide Yokocho
+* 🟢 Godzilla Head
+* 🟢 Giant 3D Cat
+
+### Optional — Tetsugakudo / Nakano
+
+* 🟡 Tetsugakudo Park
 * 🟡 Nakano
 * 🟡 Nakano Broadway
 
-### Afternoon
+> These are now optional additions rather than priorities. If you're enjoying Shinjuku or want a slower day, skip them.
+
+### Late Afternoon / Evening — Fukagawa
 
 * ⭐ Fukagawa Edo Museum
-
-### Evening — Ebisu
-
-* ⭐ Afuri Ebisu
-* ⭐ Matsugen Ebisu Store
-* Explore Ebisu
-
-### Optional
-
-* 🟡 Nakano / Nakano Broadway
-
-  * Skip if you want a slower day.
 
 ---
 
@@ -204,8 +197,7 @@ These don't require dedicated time because they're naturally along the route.
 
 * Omotesando while going from Harajuku → Shibuya
 * Hachiko while visiting Shibuya Crossing
-* Godzilla Head while exploring Kabukicho
-* Giant 3D Cat while exploring Shinjuku
+* Explore Ebisu around dinner
 
 ### Day 2
 
@@ -221,6 +213,8 @@ These don't require dedicated time because they're naturally along the route.
 
 ### Day 5
 
+* Godzilla Head while exploring Kabukicho
+* Giant 3D Cat while exploring Shinjuku
 * Nakano Broadway while visiting Tetsugakudo
 
 ---
@@ -234,6 +228,7 @@ These are worth keeping on the master list, but **don't treat them as mandatory 
 * Art Aquarium Museum
 * Ueno Park
 * Nezu Shrine
+* Tetsugakudo Park
 * Nakano Broadway
 
 ### Priority for cutting
@@ -243,9 +238,10 @@ If a day starts feeling too busy, remove things in roughly this order:
 1. 🔴 Tokyo Metropolitan Government Building
 2. 🔴 Odaiba
 3. 🔴 Art Aquarium Museum
-4. 🔴 Nakano Broadway
-5. 🔴 Ueno Park
-6. 🔴 Nezu Shrine
+4. 🔴 Tetsugakudo Park
+5. 🔴 Nakano Broadway
+6. 🔴 Ueno Park
+7. 🔴 Nezu Shrine
 
 ---
 
