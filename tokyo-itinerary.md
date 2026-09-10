@@ -1,4 +1,6 @@
-# 🇯🇵 6-Day Tokyo + Kawaguchiko Itinerary
+**Version: v0.0.1**
+
+# JP 6-Day Tokyo + Kawaguchiko Itinerary
 
 > **Strategy:** 5 focused Tokyo days + 1 night in Kawaguchiko/Fuji.
 > Keep optional attractions flexible so the trip doesn't feel like a checklist.
